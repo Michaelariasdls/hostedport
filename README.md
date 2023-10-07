@@ -19,4 +19,4 @@ Take a look at these examples that i have in my own portfolio:
 
 ![Link to Site](https://michaelariasdls.github.io/hostedport/)
 
-![Image Alt Text](images\portfolioimg.PNG)
+![Image Alt Text](./images/portfolioimg.PNG)
